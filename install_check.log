@@ -1,0 +1,8 @@
+Install checked: 2022-08-18T15:40:27-04:00
+
+SYSTEM:	Linux BigFigWasp 5.10.0-14-amd64 #1 SMP Debian 5.10.113-1 (2022-04-29) x86_64 GNU/Linux
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.30.2
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Oct 01 2021 01:51:08)
+CURL:	[/home/adrian/anaconda3/bin/curl] curl 7.82.0 (x86_64-conda-linux-gnu) libcurl/7.82.0 OpenSSL/1.1.1n zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/home/adrian/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
